@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "607125438438",
+    "project_id": "zegolive-2f268",
+    "storage_bucket": "zegolive-2f268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607125438438:android:515533aed387d41b9f6027",
+        "android_client_info": {
+          "package_name": "im.zego.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607125438438-cklh8qe6v7gs1bpdlhn6p6j4shb3m18o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMokL5-xav3vAo1lMbZRiRtB-rnWytJvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607125438438-cklh8qe6v7gs1bpdlhn6p6j4shb3m18o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "607125438438-m27n7s338c5cetakc7v3qok6n35jg7o0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "im.zego.live"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
